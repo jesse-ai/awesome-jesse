@@ -3,7 +3,7 @@
 <a href="https://discord.gg/NR79EM3R"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/jesse_ai_com" ><img src="https://img.shields.io/twitter/follow/jesse_ai_com.svg?style=social" /> </a>
 <br>
-<i>A curated list of awesome Jesse ai strategies and tools</i>
+<i>A curated list of awesome Jesse strategies and tools</i>
 </div>
 
 ### Contents:
