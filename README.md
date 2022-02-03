@@ -27,6 +27,8 @@
 ## Tools
 - [nicolay-zlobin/jesse-trades-info](https://github.com/nicolay-zlobin/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
 - [cyptocoinserver/jesse-bulk](https://github.com/cryptocoinserver/jesse-bulk) - Pick, refine, bulk test utility for Jesse dashboard.
+- [cyptocoinserver/jesse-optuna](https://github.com/cryptocoinserver/jesse-optuna) - Using [optuna](https://optuna.org/) with Jesse for optimization.
+- [cyptocoinserver/jesse-hyperactive](https://github.com/cryptocoinserver/jesse-hyperactive) - Using [Hyperactive](https://github.com/SimonBlanke/Hyperactive) with Jesse for optimization.
 - [ysdede/jesse-tk](https://github.com/ysdede/jesse-tk) - Out of date. Supports legacy Jesse CLI only. A toolkit for picking, refining dnas and performing random tests.
 
 ## Articles
