@@ -38,6 +38,10 @@
 
 ## Video Tutorials
 - [Algo-trading with Saleh - Preview of Jesse's GUI dashboard](https://www.youtube.com/watch?v=nlV8Y0QeWfc)
+- [How to set up a remote dev environment for algo-trading with Python in VSCode](https://youtu.be/hAcG8Oey4VE)
+- [How to deploy your Jesse project into the production server for live trading](https://youtu.be/cUNX5FAVVYo)
+- [How to install Jesse using docker for local algo-trading development
+](https://youtu.be/W8Hh56HJ-0I)
 
 
 ## Contribute
