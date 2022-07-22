@@ -23,6 +23,7 @@
 ## Indicators
 - [nicolay-zlobin/jesse-indicators](https://github.com/nicolay-zlobin/jesse-indicators)
 - [ysdede/custom_indicators](https://github.com/ysdede/custom_indicators)
+- [jcsaaddupuy/jesse-extra-indicators](https://github.com/jcsaaddupuy/jesse-extra-indicators)
 
 ## Tools
 - [nicolay-zlobin/jesse-trades-info](https://github.com/nicolay-zlobin/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
