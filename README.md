@@ -23,6 +23,7 @@
 ## Indicators
 - [nicolay-zlobin/jesse-indicators](https://github.com/nicolay-zlobin/jesse-indicators)
 - [ysdede/custom_indicators](https://github.com/ysdede/custom_indicators)
+- [jcsaaddupuy/jesse-extra-indicators](https://github.com/jcsaaddupuy/jesse-extra-indicators)
 
 ## Tools
 - [nicolay-zlobin/jesse-trades-info](https://github.com/nicolay-zlobin/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
@@ -31,7 +32,9 @@
 - [cyptocoinserver/jesse-hyperactive](https://github.com/cryptocoinserver/jesse-hyperactive) - Using [Hyperactive](https://github.com/SimonBlanke/Hyperactive) with Jesse for optimization.
 - [ysdede/jesse-tk](https://github.com/ysdede/jesse-tk) - Out of date. Supports legacy Jesse CLI only. A toolkit for picking, refining dnas and performing random tests.
 - [johngriffin/jesse-data-import] - bulk import OHLCV data from CSV files to candles in Jesse.
-  
+- [Gabri/jupyterlab-lightweight-charts-jesse](https://github.com/Gabri/jupyterlab-lightweight-charts-jesse) - interactive candlestick charts with Jupyter Notebooks (lightweight-charts integration)
+- [qwpto/JesseReportDiscord](https://github.com/qwpto/JesseReportDiscord) - Post the results of backtests to a discord channel using a webhook.
+
 ## Articles
 - [Official Documentation](https://docs.jesse.trade/) - Please read first
 - [Saleh Mir's Articles on official web site](https://jesse.trade/blog/user/1)
