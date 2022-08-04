@@ -34,6 +34,8 @@
 - [johngriffin/jesse-data-import] - bulk import OHLCV data from CSV files to candles in Jesse.
 - [Gabri/jupyterlab-lightweight-charts-jesse](https://github.com/Gabri/jupyterlab-lightweight-charts-jesse) - interactive candlestick charts with Jupyter Notebooks (lightweight-charts integration)
 - [qwpto/JesseReportDiscord](https://github.com/qwpto/JesseReportDiscord) - Post the results of backtests to a discord channel using a webhook.
+- [qwpto/JesseTradingViewLightReport](https://github.com/qwpto/JesseTradingViewLightReport) - Generate a self contained html document with tradingview light to review results.
+- [johngriffin/jesse-data-import](https://github.com/johngriffin/jesse-data-import) - bulk import OHLCV data from CSV files to candles in Jesse.
 
 ## Articles
 - [Official Documentation](https://docs.jesse.trade/) - Please read first
