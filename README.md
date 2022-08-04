@@ -33,7 +33,7 @@
 - [ysdede/jesse-tk](https://github.com/ysdede/jesse-tk) - Out of date. Supports legacy Jesse CLI only. A toolkit for picking, refining dnas and performing random tests.
 - [Gabri/jupyterlab-lightweight-charts-jesse](https://github.com/Gabri/jupyterlab-lightweight-charts-jesse) - interactive candlestick charts with Jupyter Notebooks (lightweight-charts integration)
 - [qwpto/JesseReportDiscord](https://github.com/qwpto/JesseReportDiscord) - Post the results of backtests to a discord channel using a webhook.
-
+- [qwpto/JesseTradingViewLightReport](https://github.com/qwpto/JesseTradingViewLightReport) - Generate a self contained html document with tradingview light to review results.
 
 ## Articles
 - [Official Documentation](https://docs.jesse.trade/) - Please read first
