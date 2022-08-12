@@ -31,7 +31,6 @@
 - [cyptocoinserver/jesse-optuna](https://github.com/cryptocoinserver/jesse-optuna) - Using [optuna](https://optuna.org/) with Jesse for optimization.
 - [cyptocoinserver/jesse-hyperactive](https://github.com/cryptocoinserver/jesse-hyperactive) - Using [Hyperactive](https://github.com/SimonBlanke/Hyperactive) with Jesse for optimization.
 - [ysdede/jesse-tk](https://github.com/ysdede/jesse-tk) - Out of date. Supports legacy Jesse CLI only. A toolkit for picking, refining dnas and performing random tests.
-- [johngriffin/jesse-data-import] - bulk import OHLCV data from CSV files to candles in Jesse.
 - [Gabri/jupyterlab-lightweight-charts-jesse](https://github.com/Gabri/jupyterlab-lightweight-charts-jesse) - interactive candlestick charts with Jupyter Notebooks (lightweight-charts integration)
 - [qwpto/JesseReportDiscord](https://github.com/qwpto/JesseReportDiscord) - Post the results of backtests to a discord channel using a webhook.
 - [qwpto/JesseTradingViewLightReport](https://github.com/qwpto/JesseTradingViewLightReport) - Generate a self contained html document with tradingview light to review results.
