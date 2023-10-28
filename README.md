@@ -26,6 +26,7 @@
 - [jcsaaddupuy/jesse-extra-indicators](https://github.com/jcsaaddupuy/jesse-extra-indicators)
 
 ## Tools
+- [jesse-ai/candle-importer-script](https://github.com/jesse-ai/candle-importer-script): Fetches candles indefinitely for a specified exchange, list of symbols, and starting date, aimed at helping users maintain an up-to-date database for continuous backtesting.
 - [nicolay-zlobin/jesse-trades-info](https://github.com/nicolay-zlobin/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
 - [cyptocoinserver/jesse-bulk](https://github.com/cryptocoinserver/jesse-bulk) - Pick, refine, bulk test utility for Jesse dashboard.
 - [cyptocoinserver/jesse-optuna](https://github.com/cryptocoinserver/jesse-optuna) - Using [optuna](https://optuna.org/) with Jesse for optimization.
