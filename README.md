@@ -27,7 +27,8 @@
 
 ## Tools
 - [jesse-ai/candle-importer-script](https://github.com/jesse-ai/candle-importer-script): Fetches candles indefinitely for a specified exchange, list of symbols, and starting date, aimed at helping users maintain an up-to-date database for continuous backtesting.
-- [nicolay-zlobin/jesse-trades-info](https://github.com/nicolay-zlobin/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
+- [nick-dolan/jesse-trades-info](https://github.com/nick-dolan/jesse-trades-info) - It helps parse Jesse's JSON backtest files with trades and shows in a convenient way with tables and charts.
+- [nick-dolan/brute-force-project-template](https://github.com/nick-dolan/brute-force-project-template) - Project template for Jesse, including a brute-force testing script that outputs results in a CSV file for quick and effective data examination. 
 - [cyptocoinserver/jesse-bulk](https://github.com/cryptocoinserver/jesse-bulk) - Pick, refine, bulk test utility for Jesse dashboard.
 - [cyptocoinserver/jesse-optuna](https://github.com/cryptocoinserver/jesse-optuna) - Using [optuna](https://optuna.org/) with Jesse for optimization.
 - [cyptocoinserver/jesse-hyperactive](https://github.com/cryptocoinserver/jesse-hyperactive) - Using [Hyperactive](https://github.com/SimonBlanke/Hyperactive) with Jesse for optimization.
