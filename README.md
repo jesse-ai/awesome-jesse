@@ -37,6 +37,7 @@
 - [qwpto/JesseReportDiscord](https://github.com/qwpto/JesseReportDiscord) - Post the results of backtests to a discord channel using a webhook.
 - [qwpto/JesseTradingViewLightReport](https://github.com/qwpto/JesseTradingViewLightReport) - Generate a self contained html document with tradingview light to review results.
 - [johngriffin/jesse-data-import](https://github.com/johngriffin/jesse-data-import) - bulk import OHLCV data from CSV files to candles in Jesse.
+- [smamet/jesse-strategy-merger](https://github.com/smamet/jesse-strategy-merger) - Merge multiple strategies into one.
 
 ## Articles
 - [Official Documentation](https://docs.jesse.trade/) - Please read first
